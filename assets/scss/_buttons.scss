@@ -1,0 +1,69 @@
+.btn-platform {
+  display: flex;
+  padding: 15px 40px;
+  border: 2px solid $text-color-dark;
+  background-color: $primary-color;
+  align-items: center;
+  border-radius: 10px;
+  font-weight: 600;
+  transition: all 0.3s ease-in-out;
+
+  @include desktop-lg {
+    padding: 15px 30px;
+  }
+  @include mobile {
+    justify-content: center;
+  }
+
+  i {
+    svg {
+      fill: $white;
+      transition: all 0.3s ease-in-out;
+    }
+  }
+
+  &-area {
+    margin-left: 12px;
+    color: $white;
+    font-size: 18px;
+    transition: all 0.3s ease-in-out;
+
+    @include mobile {
+      font-size: 14px;
+    }
+
+    span {
+      margin-bottom: -5px;
+      display: block;
+      font-size: 14px;
+      color: $text-color;
+      transition: all 0.3s ease-in-out;
+      font-weight: 400;
+      @include mobile {
+        font-size: 12px;
+      }
+    }
+  }
+
+  &:hover {
+    text-decoration: none;
+    background-color: $primary-color;
+    border-color: $primary-color;
+    box-shadow: 0px 8px 20px rgba(254, 115, 128, 0.3);
+    transform: scale(1.05);
+
+    i {
+      svg {
+        fill: $white;
+      }
+    }
+
+    .btn-platform-area {
+      color: $white;
+
+      span {
+        color: $white;
+      }
+    }
+  }
+}

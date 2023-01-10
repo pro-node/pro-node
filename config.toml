@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "https://apsho-hugo.netlify.app/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "Home Page | Software Development | Pro Node | Eloquent Software Agency"
 theme = "apsho"
 
 # Navigation Bar
