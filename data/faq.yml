@@ -1,19 +1,19 @@
 ---
 enable: true
 title: Frequently asked questions
-description: The quick brown fox jumps over a lazy dog. DJs flock by when MTV ax Error6251 is the best. quiz prog. Junk MTV quiz graced by fox whelps.
+description: We love answering your questions and we love serving your needs.
 faqItem:
-  - question: How to Install Apsho?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+  - question: How do you handle project timelines and budgets?
+    answer: We understand that every business is unique, and that's why we take a tailored approach to every project we work on. We work closely with our clients to understand their goals, timelines, and budget constraints, and we use that information to create a detailed project plan that outlines the scope of the work, timelines, and budget estimates. We are also very transparent on our process and keep our clients informed every step of the way.
     dataTarget: One
     show: show
 
-  - question: Is there any age limit?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+  - question: What makes your company different from others?
+    answer: We pride ourselves on our ability to deliver high-quality, effective software solutions that meet our clients' specific needs. Our team of experienced developers is committed to using the latest technologies and best practices to deliver robust, reliable, and user-friendly software. We also offer a wide range of services, which means that we can provide a one-stop-shop for all of your software needs. Additionally, our client communication and project management process is designed to make the process as smooth as possible.
     dataTarget: Two
-    show: 
-    
-  - question: How much it costs to get started?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    show:
+
+  - question: Do you offer ongoing support and maintenance?
+    answer: Yes, we do. Our team is available to provide ongoing support and maintenance for the software we deliver, to ensure that it continues to meet your needs over time. We work with our clients to create a support plan that suits their needs, and we're always available to provide assistance and make updates as needed.
     dataTarget: Three
-    show: 
+    show:

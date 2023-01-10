@@ -42,15 +42,15 @@ theme = "apsho"
 
 # Footer Address
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "apsho@example.com"
-phone = "+(448) 833 5272 332"
+address = "1459 City View St, Eugene, Oregon, US"
+email = "help@pronode.com"
+phone = "+(541) 344-3311"
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
-github = "https://github.com/StaticMania"
+facebook = "https://www.facebook.com/pg/pronode"
+twitter = "https://twitter.com/pro_node"
+github = "https://github.com/pro-node"
 
 [params]
 
@@ -60,9 +60,9 @@ fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
-footerTitle = "Get the latest app updates"
+footerTitle = "Stay up-to-date with our newsletter"
 copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a> {year}"
+copyright2 = "Copyright © ProNode {year}"
 
 #contact
-email = "help@staticmania.com"
+email = "help@pronode.com"

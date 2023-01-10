@@ -1,24 +1,29 @@
 ---
 enable: true
-title: What clients are say about this app
-description: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
+title: How our clients remember ProNode
+description: We are proud to work with truly innovative clients. Here are just a few of the amazing personalities we've had the privilege to work with. Great clients make us grow every day.
 comments:
-  - text: This is the best overall experience I have had with any template of any kind. Statimania made me feel like a valued customer and I feel empowered.
+  - text: ProNode helped us to streamline our internal processes and improve efficiency. Their team was great to work with and really understood our needs. They delivered a custom application that met all of our requirements, and the training and support they provided was top-notch. I highly recommend them.
     name: Juhair Islam
     designation: Senior Developer
     image: images/client/client-2.png
 
-  - text: Apsho was easy to set-up and more importantly, was dead simple to customize. Buy this on sight. Most worthy template I've ever buy
-    name: Jona Raisha
+  - text: ProNode's e-commerce platform has been a game changer for our business. It's user-friendly and easy to manage, which has helped us to increase online sales. The team at ProNode was great to work with and really understood our needs. They made sure that the platform met all of our requirements and provided excellent training and support.
+    name: Kerri Reece
     designation: UX Designer
     image: images/client/client-1.png
 
-  - text: Best. customer. service. Seriously, I opened a ticket and they were so helpful and really seemed to care about my experience.
+  - text: ProNode developed a mobile app for our transportation business that has made booking and tracking rides so much easier for our customers. The app is user-friendly and easy to navigate, and the payment integration feature is a big plus. The team at ProNode was great to work with and they delivered exactly what we needed.
     name: Xevier John
     designation: CTO
     image: images/client/client-3.png
-     
-  - text: We’ve used their templates before and have always been hugely satisfied - Stack is no exception
-    name: Kerri Reece
-    designation: Designer
-    image: images/client/client-1.png
+
+  # - text: ProNode's Supply Chain Management System has been a huge asset for our logistics business. It has made tracking our shipments and maintaining warehouse inventory so much more efficient. The team at ProNode was great to work with and really understood our needs. They delivered a great solution and provided excellent training and support.
+  #   name: Kerri Reece
+  #   designation: Designer
+  #   image: images/client/client-1.png
+
+  # - text: ProNode did an amazing job with our website design and development. They were able to capture the look and feel that we were after and added some great lead generation forms. Our website looks so professional and our leads have increased significantly since it went live. The team was easy to work with, very communicative, and provided great support and training.
+  #   name: Kerri Reece
+  #   designation: Designer
+  #   image: images/client/client-1.png

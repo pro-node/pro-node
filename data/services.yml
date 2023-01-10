@@ -4,13 +4,17 @@ enable: true
 title: Our Solutions
 services:
   - icon: ti-settings
-    title: No Setup
-    description: They generate alignment and engagement
+    title: UI/UX Design
+    description: Every design and interaction we create is a love letter for our customers; our mission is to translate your dreams & ideas into design and help shape your business.
 
   - icon: ti-check-box
-    title: Free Trial
-    description: They generate alignment and engagement
+    title: Software and SaaS
+    description: Provides an elegant and affordable solution for companies to build complex software applications and SaaS platforms. And it's easy to connect a JAMStack-powered website to your service.
 
   - icon: ti-key
-    title: Quick Access
-    description: They generate alignment and engagement
+    title: JAMStack PWA
+    description: Offering great solutions for building Fast & Reliable JAMStack Progressive Web Applications (PWA). We can create your PWA with a headless front-end and powerful API capabilities.
+
+  - icon: ti-layout
+    title: Custom Landing Pages
+    description: Develop custom landing pages for a variety of products & apps. Rest assured you will get ProNode's help in every step to make the most out of your JAMStack website.

@@ -1,14 +1,39 @@
 ---
 enable: true
-title: Ultimate experiences with story, emotion
-description: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
-description2: Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs.
-buttonText: Try It Free
-Title2nd: Product start analytics with real problems.
-description2nd: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
+title: How We Work?
+intro: At our software company, we understand that every business is unique, and that's why we take a tailored approach to every project we work on. Here's a general overview of our process
+processes:
+  - name: Discovery
+    icon: 🌍
+    content: We start by learning about your business and your specific needs. We'll ask you a lot of questions to get a clear understanding of your goals, challenges, and any constraints. This helps us to create a software solution that meets your exact requirements.
+
+  - name: Design
+    icon: 🍱
+    color: primary
+    content: After we have a solid understanding of your needs, we begin to design the solution. We'll create detailed wireframes and user interfaces so that you can see exactly how the software will work and provide feedback.
+
+  - name: Development
+    icon: 🌀
+    color: success
+    content: Once the design is approved, we'll begin the development process. Our team of experienced developers will use the latest technologies to build a robust, reliable, and user-friendly software solution.
+
+  - name: Testing
+    icon: 🌌
+    color: secondary
+    content: Before we launch the software, we'll thoroughly test it to make sure it's working properly and meets all of your requirements. We'll also provide training and support to ensure that your team can use the software effectively.
+
+  - name: Deployment
+    icon: 🚀
+    color: warning
+    content: When the software is ready, we'll deploy it to your environment. We'll work with you to make sure it's set up properly and that all of your data is migrated over.
+
+  - name: Ongoing Support
+    icon: ❔
+    color: info
+    content: We don't just walk away after we've deployed your software. We'll be there to provide ongoing support, maintenance, and any additional features you need.
+
+outro: Our process is flexible and adaptive, and we're always willing to make adjustments to accommodate your needs. And we'll always be in touch with you through the project to make sure you know what's happening and have a chance to provide feedback.
+
 image1: images/feature/feature-illustration-one.svg
-image2: images/feature/feature-illustration-two.svg
-checkItem:
-  - text: Next to the hosting account you want to use.
-  - text: Select or enter the domain name you want to use.
-  - text: After you purchase a hosting plan.
+
+buttonText: Learn More
