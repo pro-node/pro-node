@@ -1,0 +1,29 @@
+---
+enable: true
+title: How our clients remember ProNode
+description: We are proud to work with truly innovative clients. Here are just a few of the amazing personalities we've had the privilege to work with. Great clients make us grow every day.
+comments:
+  - text: ProNode helped us to streamline our internal processes and improve efficiency. Their team was great to work with and really understood our needs. They delivered a custom application that met all of our requirements, and the training and support they provided was top-notch. I highly recommend them.
+    name: Juhair Islam
+    designation: Senior Developer
+    image: images/client/client-2.png
+
+  - text: ProNode's e-commerce platform has been a game changer for our business. It's user-friendly and easy to manage, which has helped us to increase online sales. The team at ProNode was great to work with and really understood our needs. They made sure that the platform met all of our requirements and provided excellent training and support.
+    name: Kerri Reece
+    designation: UX Designer
+    image: images/client/client-1.png
+
+  - text: ProNode developed a mobile app for our transportation business that has made booking and tracking rides so much easier for our customers. The app is user-friendly and easy to navigate, and the payment integration feature is a big plus. The team at ProNode was great to work with and they delivered exactly what we needed.
+    name: Xevier John
+    designation: CTO
+    image: images/client/client-3.png
+
+  # - text: ProNode's Supply Chain Management System has been a huge asset for our logistics business. It has made tracking our shipments and maintaining warehouse inventory so much more efficient. The team at ProNode was great to work with and really understood our needs. They delivered a great solution and provided excellent training and support.
+  #   name: Kerri Reece
+  #   designation: Designer
+  #   image: images/client/client-1.png
+
+  # - text: ProNode did an amazing job with our website design and development. They were able to capture the look and feel that we were after and added some great lead generation forms. Our website looks so professional and our leads have increased significantly since it went live. The team was easy to work with, very communicative, and provided great support and training.
+  #   name: Kerri Reece
+  #   designation: Designer
+  #   image: images/client/client-1.png

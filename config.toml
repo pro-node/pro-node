@@ -1,0 +1,68 @@
+# MAIN base
+baseURL = "https://apsho-hugo.netlify.app/"
+languageCode = "en-us"
+title = "Home Page | Software Development | Pro Node | Eloquent Software Agency"
+theme = "apsho"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "Services"
+    url = "#faq"
+    weight = 3
+[[menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Latest Article"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+# Footer Address
+[params.address]
+address = "1459 City View St, Eugene, Oregon, US"
+email = "help@pronode.com"
+phone = "+(541) 344-3311"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/pg/pronode"
+twitter = "https://twitter.com/pro_node"
+github = "https://github.com/pro-node"
+
+[params]
+
+# Header
+logo = "images/logo.png"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+googleAnalytics = "UA-175025671-2"
+
+# Footer
+footerTitle = "Stay up-to-date with our newsletter"
+copyright1 = "All right reserved"
+copyright2 = "Copyright © ProNode {year}"
+
+#contact
+email = "help@pronode.com"
