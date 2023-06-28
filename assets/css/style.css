@@ -1418,7 +1418,7 @@ a:hover, a:active {
 }
 
 .main-brand img, .dsnload__img img {
-  width: 80px;
+  width: 80%;
   max-width: 100%;
   height: auto;
 }
